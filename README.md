@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavithra-siddaramaiah&label=Profile%20views&color=0e75b6&style=flat" alt="pavithra-siddaramaiah" /> </p>
 
-- 🔭 I’m currently working on **expense-tracker**
+- 🔭 I’m currently working on **Blog-Writing-website**
 
 - 🌱 I’m currently learning **Firebase**
 
