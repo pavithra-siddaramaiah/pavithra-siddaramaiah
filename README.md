@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavithra-siddaramaiah&label=Profile%20views&color=0e75b6&style=flat" alt="pavithra-siddaramaiah" /> </p>
 
-- 🔭 I’m currently working on **Blog-Writing-website**
+- 🔭 I’m currently working on **LOAN APPLICATION PLATFORM**
 
 - 🌱 I’m currently learning **Firebase**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react,node.js**
 
-- 📫 How to reach me **pavithrasiddaramaiah@gmail.com**
+- 📫 How to reach me **pavithrasiddaramaiah13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/pavithra-siddaramaiah-921078172" target="_blank">
